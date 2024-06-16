@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+    <LocalDebuggerCommand Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\TFS2010\WorldNow\Branches\Video Appliance v8.2\Video Appliance\bin\debug\ApplianceCapture0800.exe</LocalDebuggerCommand>
+    <DebuggerFlavor Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerDebuggerType Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NativeOnly</LocalDebuggerDebuggerType>
+    <LocalDebuggerCommandArguments Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    </LocalDebuggerCommandArguments>
+  </PropertyGroup>
+</Project>

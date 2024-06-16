@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VirtualStream", "src\VirtualCaptureStream.vcxproj", "{39875731-A752-40B8-A195-BA41658FD285}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{41F2D053-EB23-44BD-A47C-B7C75F8EEEA0}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39875731-A752-40B8-A195-BA41658FD285}.Debug|x86.ActiveCfg = Debug|Win32
+		{39875731-A752-40B8-A195-BA41658FD285}.Debug|x86.Build.0 = Debug|Win32
+		{39875731-A752-40B8-A195-BA41658FD285}.Release|x86.ActiveCfg = Release|Win32
+		{39875731-A752-40B8-A195-BA41658FD285}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAC89A5A-C0DD-4FCC-A9B2-8293652EA888}
+	EndGlobalSection
+EndGlobal

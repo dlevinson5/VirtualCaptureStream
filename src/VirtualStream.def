@@ -1,0 +1,14 @@
+;===========================================================================
+;  Copyright (c) 2011 WorldNow Corporation.  All Rights Reserved.
+;  Developed by David Levinson
+;===========================================================================
+
+LIBRARY     VirtualStream.ax
+
+EXPORTS
+            DllMain                 PRIVATE
+            DllGetClassObject       PRIVATE
+            DllCanUnloadNow         PRIVATE
+            DllRegisterServer       PRIVATE
+            DllUnregisterServer     PRIVATE
+
