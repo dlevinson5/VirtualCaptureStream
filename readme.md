@@ -1,7 +1,7 @@
-# DirectShow Virtual Capture Filter
+# DirectShow Virtual Capture Sink/Source Filter
 
 This is a DirectShow Graph Filter that allows capturing a media stream in one process and making it available in a second process as a virtual capture source. The idea of this filter
-is to encapsulate the details of the capture source in one process and allow a secondary process. 
+is to encapsulate the details of the capture source in one process and allow a secondary process to consume the stream. 
  
 I developed this filter many years ago and is available for general curiosity. 
 
